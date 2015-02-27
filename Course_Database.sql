@@ -1,6 +1,6 @@
-CREATE DATABASE Course;
 
-USE Course;
+
+USE Student;
 
 
 CREATE TABLE Course(CourseCode VARCHAR(10), CourseName VARCHAR(255), Professor VARCHAR(255), 
