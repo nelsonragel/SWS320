@@ -3,5 +3,6 @@ Please add WebContent folder
 src folder
 settings folder
 build/classes folder 
-.classpath
-.into this directory
+.classpath file
+.project file
+into this directory
